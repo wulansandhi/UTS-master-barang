@@ -1,0 +1,43 @@
+body {
+    margin-top: 20px;
+}
+.card-body ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+.icon-box.medium {
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.icon-box {
+    font-size: 30px;
+    margin-bottom: 33px;
+    display: inline-block;
+    color: #ffffff;
+    height: 65px;
+    width: 65px;
+    line-height: 65px;
+    background-color: #000000;
+    text-align: center;
+    border-radius: 0.3rem;
+}
+
+.rounded-3 {
+    border-radius: 0.3rem !important;
+}
+
+.display-25 {
+    font-size: 1.4rem;
+}
+
+p {
+    margin: 0 0 20px;
+}
+
+.mb-1-6,
+.my-1-6 {
+    margin-bottom: 1.6rem;
+}
